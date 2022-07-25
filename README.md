@@ -20,6 +20,8 @@
   <img align="center" alt="Luan-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Luan-INO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="Luan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Luan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Luan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/626557464023924766/988931458011906138/download20220602190422.png">
   <img align="right" alt="VaiNaWeb-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/913949902193700914/992243452391718983/badgeM2T2_.png">
 </div>    
