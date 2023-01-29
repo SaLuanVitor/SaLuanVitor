@@ -1,6 +1,6 @@
 ### Olá, Eu sou Luan Vitor, apaixonado por culinária e tecnologia 🎶🍴👨‍🍳
 
-- 🌱 I’m currently learning JavaScript, React, Styled Component...
+- 🌱 I’m currently learning Java, SQL Server, Styled Component...
 - 🤔 I’m looking for help with english
 - 📫 How to reach me: luanvitorg_852@hotmail.com
 - 😄 Pronouns: He/Him
