@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaLuanVitor&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-<div style="display:inline_block"><br>
+<div style="display:inline_block; background: white !important;"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,10 +20,12 @@
   <img align="center" alt="Luan-MicrosSQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Luan-INO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="Luan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Luan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="Luan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Luan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/626557464023924766/988931458011906138/download20220602190422.png">
   <img align="right" alt="VaiNaWeb-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/913949902193700914/992243452391718983/badgeM2T2_.png">
+          
 </div>    
 <hr>
   
