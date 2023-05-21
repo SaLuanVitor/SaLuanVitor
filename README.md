@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java, SQL Server, Software Development...
 - 🤔 I’m looking for help with english
-- 📫 How to reach me: luanvitorg_852@hotmail.com
+- 📫 How to reach me: luanvitors_852@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know how to dance, although life likes to dance with me 🥲
 
