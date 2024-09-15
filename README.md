@@ -23,8 +23,10 @@
   <img align="center" alt="Luan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Luan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  /*<img align="right" alt="VaiNaWeb-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/913949902193700914/992243452391718983/badgeM2T2_.png">
-  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/626557464023924766/988931458011906138/download20220602190422.png">*/
+  /*
+  <img align="right" alt="VaiNaWeb-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/913949902193700914/992243452391718983/badgeM2T2_.png">
+  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/626557464023924766/988931458011906138/download20220602190422.png">
+  */
           
 </div>    
 <hr>
