@@ -103,14 +103,34 @@ Atuei no desenvolvimento de sistemas para diferentes áreas do setor público, l
 
 ---
 
-## GitHub Stats
+## Receita do dev
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SaLuanVitor&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaLuanVitor&layout=compact&langs_count=7&theme=gotham&hide_border=true"/>
-</div>
+> **Dev Full Stack com IA** · Categoria: Software · Dificuldade: Alta · Preparo: 3+ anos
 
----
+```
+INGREDIENTES
+
+[ front-end & mobile ]          [ back-end & dados ]
+  React ............. a gosto     Java ........... bem cozido
+  Next.js ........... 2 colheres  Python ......... 2 xícaras
+  React Native ...... 1 pitada    Ruby on Rails .. 1 dose
+  JavaScript ........ base        SQL ............ tempero essencial
+
+[ ia & automação ]              [ gov. & setor público ]
+  Agentes LLM ... ingrediente     Urbanismo, Cultura, NF-e
+                    secreto       Contratos, Educação, Trânsito
+  Skills & flows .... a gosto     ......................... 6 projetos
+
+MODO DE PREPARO
+  1. Misture React + Next.js até a interface ficar no ponto
+  2. Adicione Java ou Python e integre com SQL ao gosto
+  3. Incorpore os projetos gov. com calma e conformidade
+  4. Finalize com agentes de IA — o ingrediente secreto
+  5. Sirva com docs claras e café quente. Repetir a gosto.
+
+// dica do chef: a vida gosta de dançar com o Luan —
+// mas o código sempre sai no ponto certo.
+```
 
 <div align="center">
   <sub>Feito com café, código e tempero 🍴👨‍🍳</sub>
