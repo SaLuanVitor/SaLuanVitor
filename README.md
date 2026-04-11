@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com mais de 3 anos de experiência construindo soluções web, mobile, sistemas corporativos e agentes de Inteligência Artificial. Atuei em projetos governamentais de diferentes esferas e áreas urbanismo, cultura, nota fiscal, contratos, educação e trânsito o que me deu vivência com requisitos complexos, conformidade, múltiplos stakeholders e ciclos de entrega em ambientes regulados.
+Desenvolvedor com mais de 3 anos de experiência construindo soluções web, mobile, sistemas corporativos e agentes de Inteligência Artificial. Atuei em 18 projetos governamentais de diferentes esferas e áreas — urbanismo, cultura, nota fiscal, contratos, educação e trânsito — o que me deu vivência com requisitos complexos, conformidade, múltiplos stakeholders e ciclos de entrega em ambientes regulados.
 
 Trabalho na interseção entre produto, tecnologia e IA: de interfaces front-end e aplicativos mobile a skills e agentes autônomos em fluxos reais de trabalho.
 
@@ -103,34 +103,34 @@ Atuei no desenvolvimento de sistemas para diferentes áreas do setor público, l
 
 ---
 
-## Receita do dev
-
-> **Dev Full Stack com IA** · Categoria: Software · Dificuldade: Alta · Preparo: 3+ anos
+## Mission Control
 
 ```
-INGREDIENTES
+// LUAN.DEV · MISSION CONTROL · v3.3
+// STATUS: ONLINE · DISPONÍVEL
 
-[ front-end & mobile ]          [ back-end & dados ]
-  React ............. a gosto     Java ........... bem cozido
-  Next.js ........... 2 colheres  Python ......... 2 xícaras
-  React Native ...... 1 pitada    Ruby on Rails .. 1 dose
-  JavaScript ........ base        SQL ............ tempero essencial
-
-[ ia & automação ]              [ gov. & setor público ]
-  Agentes LLM ... ingrediente     Urbanismo, Cultura, NF-e
-                    secreto       Contratos, Educação, Trânsito
-  Skills & flows .... a gosto     ......................... 6 projetos
-
-MODO DE PREPARO
-  1. Misture React + Next.js até a interface ficar no ponto
-  2. Adicione Java ou Python e integre com SQL ao gosto
-  3. Incorpore os projetos gov. com calma e conformidade
-  4. Finalize com agentes de IA — o ingrediente secreto
-  5. Sirva com docs claras e café quente. Repetir a gosto.
-
-// dica do chef: a vida gosta de dançar com o Luan —
-// mas o código sempre sai no ponto certo.
+╔══════════════════════════════════════════════════════════════╗
+║  SISTEMAS ATIVOS          MISSÕES EM CURSO                   ║
+║  ─────────────────        ──────────────────────────────     ║
+║  Front-end    ████████░░  ▶ Agentes de IA — skills & flows   ║
+║  IA & Agentes ████████░░  ▶ Requisitos — histórias & backlog ║
+║  Gov. público █████████░  ▶ React Native — app mobile        ║
+║  Back-end     ████████░░  ✓ 18 projetos gov. concluídos      ║
+║  Mobile       ███████░░░  ◌ Java avançado — em estudo        ║
+╠══════════════════════════════════════════════════════════════╣
+║  MÉTRICAS DE VOO          LOG DE ATIVIDADE                   ║
+║  ─────────────────        ──────────────────────────────     ║
+║  3+  anos em produção     AGORA   → agentes de IA em prod.   ║
+║  18  projetos gov.        2024    → expandiu stack p/ LLMs   ║
+║  51  repositórios         2023    → entregou NF-e & trânsito ║
+║  10+ tecnologias          2022    → 1º deploy full stack      ║
+╠══════════════════════════════════════════════════════════════╣
+║  BAHIA·BR · SUDOESTE INFORMÁTICA · FULL STACK + IA          ║
+║  COMBUSTÍVEL: CAFÉ · NÍVEL CRÍTICO · OPEN TO WORK           ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+---
 
 <div align="center">
   <sub>Feito com café, código e tempero 🍴👨‍🍳</sub>
