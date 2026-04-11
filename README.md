@@ -109,25 +109,28 @@ Atuei no desenvolvimento de sistemas para diferentes áreas do setor público, l
 // LUAN.DEV · MISSION CONTROL · v3.3
 // STATUS: ONLINE · DISPONÍVEL
 
-╔══════════════════════════════════════════════════════════════╗
-║  SISTEMAS ATIVOS          MISSÕES EM CURSO                   ║
-║  ─────────────────        ──────────────────────────────     ║
-║  Front-end    ████████░░  ▶ Agentes de IA — skills & flows   ║
-║  IA & Agentes ████████░░  ▶ Requisitos — histórias & backlog ║
-║  Gov. público █████████░  ▶ React Native — app mobile        ║
-║  Back-end     ████████░░  ✓ 18 projetos gov. concluídos      ║
-║  Mobile       ███████░░░  ◌ Java avançado — em estudo        ║
-╠══════════════════════════════════════════════════════════════╣
-║  MÉTRICAS DE VOO          LOG DE ATIVIDADE                   ║
-║  ─────────────────        ──────────────────────────────     ║
-║  3+  anos em produção     AGORA   → agentes de IA em prod.   ║
-║  18  projetos gov.        2024    → expandiu stack p/ LLMs   ║
-║  51  repositórios         2023    → entregou NF-e & trânsito ║
-║  10+ tecnologias          2022    → 1º deploy full stack      ║
-╠══════════════════════════════════════════════════════════════╣
-║  BAHIA·BR · SUDOESTE INFORMÁTICA · FULL STACK + IA          ║
-║  COMBUSTÍVEL: CAFÉ · NÍVEL CRÍTICO · OPEN TO WORK           ║
-╚══════════════════════════════════════════════════════════════╝
+// LUAN.DEV · MISSION CONTROL · v3.3
+// STATUS: ONLINE · DISPONÍVEL
+
+╔═══════════════════════════════════════════════════════════════╗
+║  SISTEMAS ATIVOS           MISSÕES EM CURSO                   ║
+║  ──────────────────        ────────────────────────────────   ║
+║  Front-end    ████████░░   ▶ Agentes de IA — skills & flows  ║
+║  IA & Agentes ████████░░   ▶ Requisitos — histórias & backlog║
+║  Gov. público █████████░   ▶ React Native — app mobile       ║
+║  Back-end     ████████░░   ✓ 18 projetos gov. concluídos     ║
+║  Mobile       ███████░░░   ◌ Java avançado — em estudo        ║
+╠═══════════════════════════════════════════════════════════════╣
+║  MÉTRICAS DE VOO           LOG DE ATIVIDADE                   ║
+║  ──────────────────        ───────────────────────────────    ║
+║  3+  anos em produção      AGORA   → agentes de IA em prod.   ║
+║  18  projetos gov.         2024    → expandiu stack p/ LLMs   ║
+║  51  repositórios          2023    → entregou NF-e & trânsito ║
+║  10+ tecnologias           2022    → 1º deploy full stack     ║
+╠═══════════════════════════════════════════════════════════════╣
+║  BAHIA·BR · SUDOESTE INFORMÁTICA · FULL STACK + IA            ║
+║  COMBUSTÍVEL: CAFÉ · NÍVEL CRÍTICO · OPEN TO WORK             ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ---
