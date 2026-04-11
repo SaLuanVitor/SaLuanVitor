@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com mais de 3 anos de experiência construindo soluções web, mobile, sistemas corporativos e agentes de Inteligência Artificial. Atuei em projetos governamentais de diferentes esferas e áreas — urbanismo, cultura, nota fiscal, contratos, educação e trânsito — o que me deu vivência com requisitos complexos, conformidade, múltiplos stakeholders e ciclos de entrega em ambientes regulados.
+Desenvolvedor com mais de 3 anos de experiência construindo soluções web, mobile, sistemas corporativos e agentes de Inteligência Artificial. Atuei em projetos governamentais de diferentes esferas e áreas urbanismo, cultura, nota fiscal, contratos, educação e trânsito o que me deu vivência com requisitos complexos, conformidade, múltiplos stakeholders e ciclos de entrega em ambientes regulados.
 
 Trabalho na interseção entre produto, tecnologia e IA: de interfaces front-end e aplicativos mobile a skills e agentes autônomos em fluxos reais de trabalho.
 
